@@ -37,7 +37,7 @@ const config = {
   final: {
     sticker: "assets/meonhaymat.jpg",
     title: "Iu thee ❤️",
-    subtitle: "hehe... Tao biết mày cũng thích tao màa🥰",
+    subtitle: "hehe... Tao biết mày cũng thích tao màa. Cho t cái danh phận nhó, m im là đồng ý rồi, hứa không lạnh với tao nữa 🥰",
     replayLabel: "Play again",
     showReplay: false,                // set false in the customer's version
   },
